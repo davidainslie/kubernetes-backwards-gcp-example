@@ -8,7 +8,7 @@
 
 ## Github
 
-We create the [repository](https://github.com/davidainslie/multi-k8s):
+We create the [repository](https://github.com/davidainslie/kubernetes-backwards-gcp-example):
 
 > ![Github repo](docs/images/github-repo.png)
 
